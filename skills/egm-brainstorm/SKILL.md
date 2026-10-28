@@ -3,11 +3,7 @@ name: egm-brainstorm
 license: Apache-2.0
 disable-model-invocation: true
 description: >-
-  Interactive ideation and brainstorming skill for the Elephant &
-  Goldfish Model (EGM). Helps turn half-baked concepts into structured
-  hypotheses via clarifying questions, review, and iterative refinement.
-  Produces an RFC summary for human review or more detailed design with
-  /egm-draft.
+  【第1步·需求孵化】苏格拉底式追问与澄清，将模糊半生想法提炼为结构化需求简报（Concepts Brief / RFC 雏形）。
 ---
 
 # EGM Brainstorm: Interactive Multi-Lens Ideation & Refinement

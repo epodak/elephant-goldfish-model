@@ -1,7 +1,7 @@
 {
   "name": "egm",
   "version": "0.1.0",
-  "description": "Draft specs, review designs, and check implementation drift.",
+  "description": "起草技术规范、金鱼编队对抗性设计审查，并探测代码与文档的实现漂移。",
   "author": {
     "name": "Google"
   },
@@ -12,13 +12,13 @@
     "com.openai": {
       "requires_local_executor": true,
       "interface": {
-        "displayName": "Elephant-Goldfish Model",
-        "shortDescription": "Draft and stress-test specs",
-        "longDescription": "Draft specs, review designs with fresh-context reviewers, resolve findings, and check implementation drift. Uses your host's models and permissions. Reviews require isolated subagents; cloud support remains partial. Not an officially supported Google product.",
+        "displayName": "Elephant-Goldfish Model (大象与金鱼模型)",
+        "shortDescription": "起草并对抗性压力测试设计文档",
+        "longDescription": "起草规范、通过无偏见子智能体进行多视角设计审查、解决缺陷决议，并探测代码与文档的实现漂移。",
         "developerName": "Google",
         "brandColor": "#1B6EF3",
         "category": "Developer Tools",
-        "capabilities": ["Draft specifications", "Review designs", "Check implementation drift"],
+        "capabilities": ["起草技术规范", "多视角设计审查", "探测实现漂移"],
         "websiteURL": "https://egm.dev",
         "supportURL": "https://github.com/google/elephant-goldfish-model/issues",
         "privacyPolicyURL": "https://github.com/google/elephant-goldfish-model/blob/main/docs/privacy.md",

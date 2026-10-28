@@ -2,7 +2,8 @@
 name: egm-bootstrap
 license: Apache-2.0
 disable-model-invocation: true
-description: Bootstrap directory README.md files across a repository subtree.
+description: >-
+  【知识工程·目录文档】自动化扫描并初始化/补齐整个代码仓库子树下的标准目录 README.md 知识导航体系。
 ---
 
 # EGM Peanuts and Hay Bootstrap (`egm-bootstrap`)

@@ -3,10 +3,7 @@ name: egm-draft
 license: Apache-2.0
 disable-model-invocation: true
 description: >-
-  Drafts a design document section-by-section using the concepts brief from
-  egm-brainstorm (or user notes). This is the second step in the Elephant-Goldfish (EGM)
-  feature flow. Use when you are ready to write a design doc after aligning on
-  requirements + solution.
+  【第2步·设计起草】基于需求简报，逐节细化起草正式技术架构方案与工作拆解（Design Doc / Spec）。
 ---
 
 # Design Drafting (Document Construction)

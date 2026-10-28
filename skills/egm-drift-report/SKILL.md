@@ -3,10 +3,7 @@ name: egm-drift-report
 license: Apache-2.0
 disable-model-invocation: true
 description: >-
-  Runs drift detection on all design documents to check for document and
-  code consistency. Produces an actionable report with differences. Use when the
-  user asks to detect drift or check for consistency across all design documents
-  or READMEs in a directory.
+  【代码质检·漂移探测】全量扫描设计文档与代码库一致性，快速定位架构设计与实际实现脱节（Drift）差异。
 ---
 
 # Detect Drift In Designs and Code
